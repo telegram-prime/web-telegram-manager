@@ -75,7 +75,7 @@ Perfect for multi-account operators who need reliability, control, and efficienc
 ---
 ### 📬 Contacts & Support
 
-- 📧 Email: manager@wbtg.org  
+- 📧 Email: manager[@]wbtg.org  
 - Telegram: [Send message](https://wbtg.org/telegram-contact)  
 - Discord: [Send message](https://wbtg.org/discord-contact)  
 - Element/Matrix: [Send message](https://wbtg.org/element-contact)  
