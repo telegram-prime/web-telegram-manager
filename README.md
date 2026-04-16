@@ -7,13 +7,13 @@ Powerful desktop application for managing, organizing, monitoring, and operating
 WBTG turns chaotic browser tabs into a clean, persistent, and professional workspace for multi-account Telegram Web operations.
 
 ---
-
 ### 🌟 Why WBTG?
 
 Instead of opening dozens of browser profiles manually, WBTG creates and manages **isolated Telegram Web sessions** using web-profiles — each with its own persistent storage, proxy settings, fingerprint configuration, and operational state.
 
 Perfect for multi-account operators who need reliability, control, and efficiency.
 
+---
 ### ⚙️ Core Capabilities
 
 | Category                    | Features |
@@ -35,6 +35,7 @@ Perfect for multi-account operators who need reliability, control, and efficienc
 | **Responsive Support**       | Fast operational support channels for setup issues, license questions, and runtime assistance |
 | **Auto Updates**             | Built-in update checks with direct download links for the latest program version |
 
+---
 ### 🚀 Key Advantages
 
 - **True isolation** — Every account has its own dedicated storage folder
@@ -44,6 +45,7 @@ Perfect for multi-account operators who need reliability, control, and efficienc
 - **Flexible Scheduling** — Run campaigns at specific times without constant supervision
 - **Built for Windows** — Clean Qt-based desktop application with modern interface
 
+---
 ### 📸 Screenshots
 
 <img width="256" alt="WBTG_EN_001" src="https://github.com/user-attachments/assets/9fc94cc7-093b-4b57-9440-ab4c27b695a3" />
@@ -51,11 +53,17 @@ Perfect for multi-account operators who need reliability, control, and efficienc
 <img width="256" alt="WBTG_EN_003" src="https://github.com/user-attachments/assets/48fa7156-e27a-481c-977f-08cf29a05939" />
 <img width="256" alt="WBTG_EN_004" src="https://github.com/user-attachments/assets/4eb6be00-b9de-4b72-8475-d46b9426764c" />
 
+---
+### ▶️ Video Review
 
+[Watch on YouTube](https://youtu.be/zR7skU6907c)
+
+---
 ### 📥 Download
 
 **Latest Release** → [WebSite Releases](https://wbtg.org/en/downloads)
 
+---
 ### 🎯 Who is WBTG For?
 
 - Multi-account Telegram operators
@@ -64,6 +72,7 @@ Perfect for multi-account operators who need reliability, control, and efficienc
 - Testing and QA teams
 - Anyone who needs reliable, persistent Telegram Web sessions
 
+---
 ### 📬 Contacts & Support
 
 - 📧 Email: manager@wbtg.org  
@@ -72,6 +81,7 @@ Perfect for multi-account operators who need reliability, control, and efficienc
 - Element/Matrix: [Send message](https://wbtg.org/element-contact)  
 - 🌍 Website: https://wbtg.org/
 
+---
 ### ☕ Support the Project
 
 If WBTG makes your workflow easier and more efficient — consider buying us a coffee 😄  
@@ -83,3 +93,4 @@ If WBTG makes your workflow easier and more efficient — consider buying us a c
 It is a complete desktop workspace designed for serious multi-account Telegram Web operations.
 
 **Organize • Monitor • Send • Scale**
+---
